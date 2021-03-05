@@ -1,0 +1,13 @@
+D:\OneDrive\projects\PatternProblems\ManyKindOfGenerators\ManyKindOfGenerators\obj\Debug\netcoreapp3.1\ManyKindOfGenerators.csprojAssemblyReference.cache
+D:\OneDrive\projects\PatternProblems\ManyKindOfGenerators\ManyKindOfGenerators\obj\Debug\netcoreapp3.1\ManyKindOfGenerators.AssemblyInfoInputs.cache
+D:\OneDrive\projects\PatternProblems\ManyKindOfGenerators\ManyKindOfGenerators\obj\Debug\netcoreapp3.1\ManyKindOfGenerators.AssemblyInfo.cs
+D:\OneDrive\projects\PatternProblems\ManyKindOfGenerators\ManyKindOfGenerators\obj\Debug\netcoreapp3.1\ManyKindOfGenerators.csproj.CoreCompileInputs.cache
+D:\OneDrive\projects\PatternProblems\ManyKindOfGenerators\ManyKindOfGenerators\bin\Debug\netcoreapp3.1\ManyKindOfGenerators.exe
+D:\OneDrive\projects\PatternProblems\ManyKindOfGenerators\ManyKindOfGenerators\bin\Debug\netcoreapp3.1\ManyKindOfGenerators.deps.json
+D:\OneDrive\projects\PatternProblems\ManyKindOfGenerators\ManyKindOfGenerators\bin\Debug\netcoreapp3.1\ManyKindOfGenerators.runtimeconfig.json
+D:\OneDrive\projects\PatternProblems\ManyKindOfGenerators\ManyKindOfGenerators\bin\Debug\netcoreapp3.1\ManyKindOfGenerators.runtimeconfig.dev.json
+D:\OneDrive\projects\PatternProblems\ManyKindOfGenerators\ManyKindOfGenerators\bin\Debug\netcoreapp3.1\ManyKindOfGenerators.dll
+D:\OneDrive\projects\PatternProblems\ManyKindOfGenerators\ManyKindOfGenerators\bin\Debug\netcoreapp3.1\ManyKindOfGenerators.pdb
+D:\OneDrive\projects\PatternProblems\ManyKindOfGenerators\ManyKindOfGenerators\obj\Debug\netcoreapp3.1\ManyKindOfGenerators.dll
+D:\OneDrive\projects\PatternProblems\ManyKindOfGenerators\ManyKindOfGenerators\obj\Debug\netcoreapp3.1\ManyKindOfGenerators.pdb
+D:\OneDrive\projects\PatternProblems\ManyKindOfGenerators\ManyKindOfGenerators\obj\Debug\netcoreapp3.1\ManyKindOfGenerators.genruntimeconfig.cache
