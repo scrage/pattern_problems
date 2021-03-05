@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using ManyKindOfGenerators.Entities;
 using ManyKindOfGenerators.ResourceGenerators;
 
@@ -53,6 +54,17 @@ namespace ManyKindOfGenerators
                 Console.WriteLine($"\t{resource}");
             }
             Console.WriteLine();
+
+            using (StreamWriter file = new StreamWriter("output.txt", append: true))
+            {
+                file.WriteLine(planet);
+                file.WriteLine("Planet's natural resources: ");
+                foreach (var resource in resources)
+                {
+                    file.WriteLine($"\t{resource}");
+                }
+                file.WriteLine();
+            }
         }
     }
 }

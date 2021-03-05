@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\projects\\PatternProblems\\ManyKindOfGenerators\\ManyKindOfGenerators\\ManyKindOfGenerators.csproj": {}
+    "D:\\OneDrive\\projects\\pattern_problems\\ManyKindOfGenerators\\ManyKindOfGenerators\\ManyKindOfGenerators.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\projects\\PatternProblems\\ManyKindOfGenerators\\ManyKindOfGenerators\\ManyKindOfGenerators.csproj": {
+    "D:\\OneDrive\\projects\\pattern_problems\\ManyKindOfGenerators\\ManyKindOfGenerators\\ManyKindOfGenerators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\projects\\PatternProblems\\ManyKindOfGenerators\\ManyKindOfGenerators\\ManyKindOfGenerators.csproj",
+        "projectUniqueName": "D:\\OneDrive\\projects\\pattern_problems\\ManyKindOfGenerators\\ManyKindOfGenerators\\ManyKindOfGenerators.csproj",
         "projectName": "ManyKindOfGenerators",
-        "projectPath": "D:\\OneDrive\\projects\\PatternProblems\\ManyKindOfGenerators\\ManyKindOfGenerators\\ManyKindOfGenerators.csproj",
+        "projectPath": "D:\\OneDrive\\projects\\pattern_problems\\ManyKindOfGenerators\\ManyKindOfGenerators\\ManyKindOfGenerators.csproj",
         "packagesPath": "C:\\Users\\fazek\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\projects\\PatternProblems\\ManyKindOfGenerators\\ManyKindOfGenerators\\obj\\",
+        "outputPath": "D:\\OneDrive\\projects\\pattern_problems\\ManyKindOfGenerators\\ManyKindOfGenerators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fazek\\AppData\\Roaming\\NuGet\\NuGet.Config",

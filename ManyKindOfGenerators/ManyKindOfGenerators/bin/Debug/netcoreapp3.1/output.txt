@@ -1,0 +1,367 @@
+Diameter: 2705 meters
+Is Rogue Planet: False
+Within habitable zone: True
+Is a Hellscape: False
+Has rock mantle: True
+Has an active core: True
+Has mountains: True
+Has volcanoes: False
+Has oxygen: False
+
+Planet's natural resources: 
+	Gemstone
+	Mineral
+	Hydrogen
+	Solar energy
+	Thermal energy
+
+Diameter: 33988 meters
+Is Rogue Planet: False
+Within habitable zone: False
+Is a Hellscape: True
+Has rock mantle: True
+Has an active core: True
+Has mountains: True
+Has volcanoes: True
+Has oxygen: False
+
+Planet's natural resources: 
+	Gemstone
+	Mineral
+	Basalt
+	Hydrogen
+	Solar energy
+	Thermal energy
+
+Diameter: 89207 meters
+Is Rogue Planet: False
+Within habitable zone: True
+Is a Hellscape: True
+Has rock mantle: True
+Has an active core: True
+Has mountains: True
+Has volcanoes: True
+Has oxygen: False
+
+Planet's natural resources: 
+	Gemstone
+	Mineral
+	Basalt
+	Hydrogen
+	Solar energy
+	Thermal energy
+
+Diameter: 10675 meters
+Is Rogue Planet: False
+Within habitable zone: True
+Is a Hellscape: False
+Has rock mantle: True
+Has an active core: True
+Has mountains: True
+Has volcanoes: True
+Has oxygen: False
+
+Planet's natural resources: 
+	Gemstone
+	Mineral
+	Basalt
+	Hydrogen
+	Solar energy
+	Thermal energy
+
+Diameter: 26780 meters
+Is Rogue Planet: False
+Within habitable zone: True
+Is a Hellscape: False
+Has rock mantle: True
+Has an active core: True
+Has mountains: True
+Has volcanoes: True
+Has oxygen: False
+
+Planet's natural resources: 
+	Gemstone
+	Mineral
+	Basalt
+	Hydrogen
+	Solar energy
+	Thermal energy
+
+Diameter: 103697 meters
+Is Rogue Planet: False
+Within habitable zone: False
+Is a Hellscape: True
+Has rock mantle: True
+Has an active core: False
+Has mountains: True
+Has volcanoes: False
+Has oxygen: False
+
+Planet's natural resources: 
+	Gemstone
+	Mineral
+	Hydrogen
+	Solar energy
+
+Diameter: 6044 meters
+Is Rogue Planet: False
+Within habitable zone: False
+Is a Hellscape: True
+Has rock mantle: True
+Has an active core: True
+Has mountains: True
+Has volcanoes: False
+Has oxygen: True
+
+Planet's natural resources: 
+	Gemstone
+	Mineral
+	Oxygen
+	Hydrogen
+	Water
+	Solar energy
+	Thermal energy
+
+Diameter: 33090 meters
+Is Rogue Planet: False
+Within habitable zone: True
+Is a Hellscape: False
+Has rock mantle: False
+Has an active core: True
+Has mountains: False
+Has volcanoes: False
+Has oxygen: False
+
+Planet's natural resources: 
+	Solar energy
+	Thermal energy
+
+Diameter: 194352 meters
+Is Rogue Planet: False
+Within habitable zone: False
+Is a Hellscape: True
+Has rock mantle: False
+Has an active core: True
+Has mountains: False
+Has volcanoes: False
+Has oxygen: False
+
+Planet's natural resources: 
+	Solar energy
+	Thermal energy
+
+Diameter: 14730 meters
+Is Rogue Planet: False
+Within habitable zone: False
+Is a Hellscape: True
+Has rock mantle: True
+Has an active core: True
+Has mountains: True
+Has volcanoes: True
+Has oxygen: True
+
+Planet's natural resources: 
+	Gemstone
+	Mineral
+	Basalt
+	Oxygen
+	Hydrogen
+	Water
+	Solar energy
+	Thermal energy
+
+Diameter: 30658 meters
+Is Rogue Planet: False
+Within habitable zone: False
+Is a Hellscape: True
+Has rock mantle: True
+Has an active core: True
+Has mountains: True
+Has volcanoes: True
+Has oxygen: False
+
+Planet's natural resources: 
+	Gemstone
+	Mineral
+	Basalt
+	Hydrogen
+	Solar energy
+	Thermal energy
+
+Diameter: 177912 meters
+Is Rogue Planet: False
+Within habitable zone: False
+Is a Hellscape: True
+Has rock mantle: True
+Has an active core: True
+Has mountains: True
+Has volcanoes: True
+Has oxygen: True
+
+Planet's natural resources: 
+	Gemstone
+	Mineral
+	Basalt
+	Oxygen
+	Solar energy
+	Thermal energy
+
+Diameter: 12358 meters
+Is Rogue Planet: False
+Within habitable zone: False
+Is a Hellscape: True
+Has rock mantle: True
+Has an active core: True
+Has mountains: True
+Has volcanoes: True
+Has oxygen: False
+
+Planet's natural resources: 
+	Gemstone
+	Mineral
+	Basalt
+	Hydrogen
+	Solar energy
+	Thermal energy
+
+Diameter: 23391 meters
+Is Rogue Planet: False
+Within habitable zone: True
+Is a Hellscape: False
+Has rock mantle: False
+Has an active core: False
+Has mountains: False
+Has volcanoes: False
+Has oxygen: False
+
+Planet's natural resources: 
+	Hydrogen
+	Solar energy
+
+Diameter: 86081 meters
+Is Rogue Planet: False
+Within habitable zone: False
+Is a Hellscape: True
+Has rock mantle: False
+Has an active core: True
+Has mountains: False
+Has volcanoes: False
+Has oxygen: True
+
+Planet's natural resources: 
+	Oxygen
+	Solar energy
+	Thermal energy
+
+Diameter: 17764 meters
+Is Rogue Planet: False
+Within habitable zone: False
+Is a Hellscape: True
+Has rock mantle: True
+Has an active core: True
+Has mountains: True
+Has volcanoes: True
+Has oxygen: True
+
+Planet's natural resources: 
+	Gemstone
+	Mineral
+	Basalt
+	Oxygen
+	Hydrogen
+	Water
+	Solar energy
+	Thermal energy
+
+Diameter: 54488 meters
+Is Rogue Planet: False
+Within habitable zone: True
+Is a Hellscape: False
+Has rock mantle: False
+Has an active core: True
+Has mountains: False
+Has volcanoes: False
+Has oxygen: False
+
+Planet's natural resources: 
+	Hydrogen
+	Solar energy
+	Thermal energy
+
+Diameter: 121018 meters
+Is Rogue Planet: False
+Within habitable zone: True
+Is a Hellscape: False
+Has rock mantle: True
+Has an active core: True
+Has mountains: True
+Has volcanoes: True
+Has oxygen: False
+
+Planet's natural resources: 
+	Gemstone
+	Mineral
+	Basalt
+	Hydrogen
+	Solar energy
+	Thermal energy
+
+Diameter: 12575 meters
+Is Rogue Planet: False
+Within habitable zone: False
+Is a Hellscape: True
+Has rock mantle: True
+Has an active core: True
+Has mountains: True
+Has volcanoes: True
+Has oxygen: True
+
+Planet's natural resources: 
+	Gemstone
+	Mineral
+	Basalt
+	Oxygen
+	Hydrogen
+	Water
+	Solar energy
+	Thermal energy
+
+Diameter: 50902 meters
+Is Rogue Planet: False
+Within habitable zone: True
+Is a Hellscape: False
+Has rock mantle: False
+Has an active core: False
+Has mountains: False
+Has volcanoes: False
+Has oxygen: True
+
+Planet's natural resources: 
+	Tree
+	Peat
+	Carbon
+	Oxygen
+	Hydrogen
+	Water
+	Solar energy
+
+Diameter: 186386 meters
+Is Rogue Planet: False
+Within habitable zone: False
+Is a Hellscape: True
+Has rock mantle: True
+Has an active core: True
+Has mountains: True
+Has volcanoes: True
+Has oxygen: True
+
+Planet's natural resources: 
+	Gemstone
+	Mineral
+	Basalt
+	Oxygen
+	Hydrogen
+	Water
+	Solar energy
+	Thermal energy
+
